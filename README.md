@@ -1,4 +1,4 @@
-## 📊 Featured Analytics Project
+## Featured Analytics Project
 
 **Creator Support Analytics Dashboard**  
 Python + SQL analytics pipeline analyzing retention, churn, and ARPM for creator platforms.
