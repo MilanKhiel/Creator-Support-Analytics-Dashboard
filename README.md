@@ -1,2 +1,6 @@
-# Creator-Support-Analytics-Dashboard
-End-to-end analytics pipeline using Python and SQL to analyze creator engagement, retention, churn, and ARPM, with dashboards that surface insights for subscription-based platforms.
+## 📊 Featured Analytics Project
+
+**Creator Support Analytics Dashboard**  
+Python + SQL analytics pipeline analyzing retention, churn, and ARPM for creator platforms.
+
+![Cohort Retention](creator-support-analytics/docs/retention_heatmap.png)
